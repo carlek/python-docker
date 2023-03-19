@@ -1,0 +1,7 @@
+source:
+https://docs.docker.com/language/python
+
+cmds:
+
+# build the image
+docker build --tag python-docker .
